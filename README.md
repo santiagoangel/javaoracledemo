@@ -31,7 +31,7 @@ myserver
 
 *Install
 ```
-$ yum localinstall Descargas/Disk1/oracle-xe-11.2.0-1.0.x86_64.rpm 
+$ yum localinstall oracle-xe-11.2.0-1.0.x86_64.rpm 
 
 ```
 
